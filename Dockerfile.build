@@ -2,4 +2,4 @@ FROM openjdk
 MAINTAINER Ehsan Asdar <easdar@gatech.edu>
 
 WORKDIR "/src"
-CMD ["./build.sh", "build"]
+CMD ["./build.sh", "package"]
