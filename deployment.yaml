@@ -1,0 +1,4 @@
+git:
+    remote: https://github.com/HackGT/cas-services-management-overlay.git
+    branch: master
+target_port: 8080
